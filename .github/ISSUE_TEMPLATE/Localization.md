@@ -11,6 +11,8 @@ assignees: ''
 - HOI4 Version:
 - TNO Version:
 - Any other mods in use:
+- 
+- event TYM 138.d: Kukalov had => Kulakov
 
 **List the Loc issues down below (preferably with screenshot attached below with event id / focus id shown):**
 
