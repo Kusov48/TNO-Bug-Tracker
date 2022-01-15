@@ -13,8 +13,9 @@ assignees: ''
 - Any other mods in use:
 
 **List the Loc issues down below (preferably with screenshot attached below with event id / focus id shown):**
-
+Tyumen, event id TYM.120.d. This sentence: "\n\nMikhail held his breath as Khrushchev extrapolated, stating some problems, which, for the most part, Kaganvich took considerably well." Kaganvich is missing "o" letter => Kaganovich
 - [ ] 1. 
 (Screenshot here)
+You can find it yourself
 - [ ] 2. 
 (Screenshot here)
